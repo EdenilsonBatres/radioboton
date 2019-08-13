@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">radioboton</string>
+    <string name="txt_informacion">Radio calculadora</string>
+    <string name="txt_primer_numero">Primer numero</string>
+    <string name="txt_segundo_numero">Segundo numero</string>
+    <string name="rb_sumar">Sumar</string>
+    <string name="rb_restar">Restar</string>
+    <string name="btn_calcular">Calcular</string>
+    <string name="txt_resultado">Resultado</string>
+</resources>
